@@ -1,6 +1,6 @@
-    import random
+import random
 
-    while True:
+while True:
         attempts = 0
         guess_list = []
         low = 0
